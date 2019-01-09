@@ -1,0 +1,25 @@
+[31-Jul-2015 02:44:44 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/jacobrichman/public_html/Diresta/index.php on line 80
+[31-Jul-2015 02:44:53 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/jacobrichman/public_html/Diresta/index.php on line 80
+[31-Jul-2015 02:45:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/jacobrichman/public_html/Diresta/index.php on line 80
+[31-Jul-2015 03:10:00 UTC] PHP Fatal error:  Function name must be a string in /home/jacobrichman/public_html/Diresta/index.php on line 105
+[31-Jul-2015 03:10:09 UTC] PHP Fatal error:  Function name must be a string in /home/jacobrichman/public_html/Diresta/index.php on line 105
+[31-Jul-2015 03:10:13 UTC] PHP Fatal error:  Function name must be a string in /home/jacobrichman/public_html/Diresta/index.php on line 105
+[31-Jul-2015 04:55:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/jacobrichman/public_html/Diresta/test.php on line 26
+[21-Apr-2016 08:30:30 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home1/jacobric/public_html/Diresta/base.php on line 9
+[21-Apr-2016 08:30:30 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'diresta'@'localhost' (using password: YES) in /home1/jacobric/public_html/Diresta/base.php on line 9
+[21-Apr-2016 12:59:28 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home1/jacobric/public_html/Diresta/base.php on line 9
+[21-Apr-2016 12:59:28 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'diresta'@'localhost' (using password: YES) in /home1/jacobric/public_html/Diresta/base.php on line 9
+[23-Apr-2016 16:01:59 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home1/jacobric/public_html/Diresta/base.php on line 9
+[23-Apr-2016 16:01:59 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'diresta'@'localhost' (using password: YES) in /home1/jacobric/public_html/Diresta/base.php on line 9
+[08-May-2016 13:50:11 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home1/jacobric/public_html/Diresta/base.php on line 9
+[08-May-2016 13:50:11 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'diresta'@'localhost' (using password: YES) in /home1/jacobric/public_html/Diresta/base.php on line 9
+[14-May-2016 01:42:24 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home1/jacobric/public_html/Diresta/base.php on line 9
+[14-May-2016 01:42:24 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'diresta'@'localhost' (using password: YES) in /home1/jacobric/public_html/Diresta/base.php on line 9
+[02-Jun-2016 21:07:52 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home1/jacobric/public_html/Diresta/base.php on line 9
+[02-Jun-2016 21:07:52 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'diresta'@'localhost' (using password: YES) in /home1/jacobric/public_html/Diresta/base.php on line 9
+[27-Jun-2016 00:47:19 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home1/jacobric/public_html/Diresta/base.php on line 9
+[27-Jun-2016 00:47:19 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'diresta'@'localhost' (using password: YES) in /home1/jacobric/public_html/Diresta/base.php on line 9
+[27-Jun-2016 23:33:56 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home1/jacobric/public_html/Diresta/base.php on line 9
+[27-Jun-2016 23:33:56 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'diresta'@'localhost' (using password: YES) in /home1/jacobric/public_html/Diresta/base.php on line 9
+[27-Jun-2016 23:34:02 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home1/jacobric/public_html/Diresta/base.php on line 9
+[27-Jun-2016 23:34:02 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'diresta'@'localhost' (using password: YES) in /home1/jacobric/public_html/Diresta/base.php on line 9
